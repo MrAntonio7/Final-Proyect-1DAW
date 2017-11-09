@@ -1,0 +1,108 @@
+goku/goku_esp (1).gif
+goku/goku_esp (2).gif
+goku/goku_esp (3).gif
+goku/goku_abajo.gif
+goku/goku_atras (1).gif
+goku/goku_atras (2).gif
+goku/goku_dano.gif
+goku/goku_gana.gif
+goku/goku_patada (1).gif
+goku/goku_patada (2).gif
+goku/goku_patada (3).gif
+goku/goku_patada (4).gif
+goku/goku_pierde.gif
+goku/goku_puno (1).gif
+goku/goku_puno (2).gif
+goku/goku_puno (3).gif
+goku/goku_puno (4).gif
+goku/goku_run (1).gif
+goku/goku_run (2).gif
+goku/goku_run (3).gif
+goku/goku_salto.gif
+goku/goku_stance.gif
+goku/goku_suelo.gif
+goku/goku_tele.gif
+goku/goku_avatar.gif
+goku/goku_cae.gif
+goku/goku_carga.gif
+goku/goku_carga_ki.gif
+veg/veg_cae.gif
+veg/veg_carga.gif
+veg/veg_carga_ki.gif
+veg/veg_abajo.gif
+veg/veg_atras (1).gif
+veg/veg_atras (2).gif
+veg/veg_dano.gif
+veg/veg_esp (1).gif
+veg/veg_esp (2).gif
+veg/veg_esp (3).gif
+veg/veg_gana.gif
+veg/veg_patada (1).gif
+veg/veg_patada (2).gif
+veg/veg_patada (3).gif
+veg/veg_patada (4).gif
+veg/veg_pierde.gif
+veg/veg_puno (1).gif
+veg/veg_puno (2).gif
+veg/veg_puno (3).gif
+veg/veg_puno (4).gif
+veg/veg_run (1).gif
+veg/veg_run (2).gif
+veg/veg_run (3).gif
+veg/veg_salto.gif
+veg/veg_stance.gif
+veg/veg_suelo.gif
+veg/veg_avatar.gif
+veg/veg_tele.gif
+esp_goku/esp_goku (1).gif
+esp_goku/esp_goku (2).gif
+esp_goku/esp_goku (3).gif
+esp_goku/esp_goku (4).gif
+esp_goku/esp_goku (5).gif
+esp_goku/esp_goku (6).gif
+esp_goku/esp_goku (7).gif
+esp_goku/esp_goku (8).gif
+esp_goku/esp_goku (9).gif
+esp_goku/esp_goku (10).gif
+esp_goku/esp_goku (11).gif
+esp_goku/esp_goku (12).gif
+esp_veg/esp_veg (1).gif
+esp_veg/esp_veg (2).gif
+esp_veg/esp_veg (3).gif
+esp_veg/esp_veg (4).gif
+esp_veg/esp_veg (5).gif
+esp_veg/esp_veg (6).gif
+esp_veg/esp_veg (7).gif
+esp_veg/esp_veg (8).gif
+esp_veg/esp_veg (9).gif
+esp_veg/esp_veg (10).gif
+esp_veg/esp_veg (11).gif
+esp_veg/esp_veg (12).gif
+exp/exp (0).gif
+exp/exp (1).gif
+exp/exp (2).gif
+exp/exp (3).gif
+exp/exp (4).gif
+exp/exp (5).gif
+vs.gif
+loading.gif
+controles/q.gif
+controles/w.gif
+controles/e.gif
+controles/r.gif
+controles/a.gif
+controles/s.gif
+controles/d.gif
+controles/f.gif
+controles/y.gif
+controles/h.gif
+controles/u.gif
+controles/j.gif
+controles/k.gif
+controles/i.gif
+controles/o.gif
+controles/l.gif
+controles/nada.gif
+fight.gif
+player_1_win.gif
+player_2_win.gif
